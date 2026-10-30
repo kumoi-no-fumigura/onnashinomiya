@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/onnashinomiya",
  "yomi": "おんなしのみやうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（前栽歌合）",
+  "era": "天禄3年（972）8月28日",
+  "author": "主催 規子内親王（女四宮）／判者 源順",
+  "desc": "村上天皇の第四皇女・規子内親王の御所の庭に秋草を植え、松虫・鈴虫を放って催した前栽歌合。判は源順が務めた。男方と女方の贈答を記す仮名日記を伴う。"
+ },
  "editions": [
   {
    "pid": "1128193",
